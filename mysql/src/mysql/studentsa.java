@@ -12,10 +12,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-/**
- *
- * @author YANGYANG_CPE121
- */
+
 public class studentsa extends javax.swing.JFrame {
 
      
